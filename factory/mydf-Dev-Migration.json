@@ -1,0 +1,15 @@
+{
+	"name": "mydf-Dev-Migration",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8b5f3a0f-1e9a-4f21-80eb-a17fd50793c8",
+		"tenantId": "5bc1d5d0-734f-4c24-b1c9-324434b620a6"
+	}
+}
